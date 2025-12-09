@@ -9,4 +9,4 @@ EQUIPE:
 
 LINK OVERLEAF: https://www.overleaf.com/read/tczrtgjrbspk#37e917
 
-LINK GOOGLE COLAB (Rodar o código ipynb online): https://colab.research.google.com/drive/1UD8vn-alMMz6L49UQqBibqOkFWqn3JMK?usp=sharing
+LINK GOOGLE COLAB (Rodar o código ipynb online): https://drive.google.com/drive/folders/1Tj3L9leW38rvn6z0SMOV6Tqehwzourh3?usp=sharing
