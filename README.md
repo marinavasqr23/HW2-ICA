@@ -8,4 +8,5 @@ EQUIPE:
     Fábio Agostinho da Silva Nascimento Filho (538521)
 
 LINK OVERLEAF: https://www.overleaf.com/read/tczrtgjrbspk#37e917
+
 LINK GOOGLE COLAB (Rodar o código ipynb online): https://colab.research.google.com/drive/1UD8vn-alMMz6L49UQqBibqOkFWqn3JMK?usp=sharing
